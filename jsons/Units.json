@@ -3,10 +3,10 @@
 		"name": "big number",
 		"unitType": "Ranged",
 		"uniqueTo": "Numbers",
-		"movement": 100,
+		"movement": 5,
 		"strength": 100,
 		"rangedStrength": 50,
-		"range": 50,
+		"range": 3,
 		"cost": 2
 	}
 ]
