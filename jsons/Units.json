@@ -3,11 +3,10 @@
 		"name": "big number",
 		"unitType": "Ranged",
 		"uniqueTo": "Numbers",
-		"movement": 200,
-		"strength": 900,
-		"rangedStrength": 900,
-		"range": 999,
-		"cost": 2,
-		"promotions": ["Logistics","Accuracy I"]
+		"movement": 100,
+		"strength": 100,
+		"rangedStrength": 50,
+		"range": 50,
+		"cost": 2
 	}
 ]
