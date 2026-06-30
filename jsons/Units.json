@@ -1,12 +1,17 @@
 [
 	{
-		"name": "big number",
+		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Numbers",
-		"movement": 5,
-		"strength": 100,
-		"rangedStrength": 50,
-		"range": 3,
-		"cost": 2
+		"uniqueTo": "Aliens",
+		"replaces": "Machine Gun",
+		"movement": 2,
+		"strength": 90,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 500,
+		"requiredTech": "Ballistics",
+		"requiredResource": "Uranium",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
 	}
 ]
