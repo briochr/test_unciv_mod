@@ -11,15 +11,5 @@
 		"cost": 2,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	},
-	{
-		"name": "psy duck",
-		"unitType": "Civilian Water",
-		"movement": 2,
-		"strength": 3,
-		"rangedStrength": 36,
-		"range": 5,
-		"cost": 20,
-		"attackSound": "phasers"
 	}
 ]
