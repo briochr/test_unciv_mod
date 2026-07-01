@@ -15,13 +15,11 @@
 	{
 		"name": "psy duck",
 		"unitType": "Civilian Water",
-		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
+		"strength": 3,
 		"rangedStrength": 36,
-		"range": 2,
+		"range": 5,
 		"cost": 20,
-		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
